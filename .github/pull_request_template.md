@@ -7,5 +7,5 @@ _Add more context to describe the changes......._
 [Example](www.google.com)
 
 ### Checks
-*[ ]Tested Changes
-*[ ]Stakerholder Approval
+- [ ]Tested Changes
+- [ ]Stakerholder Approval
